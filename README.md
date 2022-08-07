@@ -18,6 +18,8 @@ Other objectives are:
 4. To test the model by using unseen images and video
 
 ### Dataset
-The dataset used in this project composed of 853 images of people wearing and not waering a facemask. The data are retrieved at Kaggle and uploaded at Roboflow to apply respective annotations of each images.
+The dataset used in this project composed of 853 images of people wearing and not wearing a facemask. The data are retrieved at Kaggle and uploaded at Roboflow to apply respective annotations of each images.
 
 The following are the classes present in the dataset: 'with_mask', 'without_mask', and 'mask_weared_incorrect'
+
+**Kaggle Data link: ** https://www.kaggle.com/datasets/andrewmvd/face-mask-detection?select=images
