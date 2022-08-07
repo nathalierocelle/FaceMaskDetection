@@ -22,4 +22,4 @@ The dataset used in this project composed of 853 images of people wearing and no
 
 The following are the classes present in the dataset: 'with_mask', 'without_mask', and 'mask_weared_incorrect'
 
-**Kaggle Data link: ** https://www.kaggle.com/datasets/andrewmvd/face-mask-detection?select=images
+**Kaggle Data link:** https://www.kaggle.com/datasets/andrewmvd/face-mask-detection?select=images
